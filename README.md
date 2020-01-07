@@ -50,7 +50,9 @@ Um ataque deve ser feito com uma carta de espada que esteja na mão. Qualquer se
 
 ## LIXEIRA
 Sempre que uma carta for utilizada para o ataque, independente de ter tido sucesso ou não, acaba indo para a lixeira.
-Uma carta de proteção que for derrubada pelo ataque, também vai para a lixeira.
+
+Uma carta de proteção que for derrubada pelo ataque, também vai para a lixeira, independente de ter tido sucesso ou não.
+
 As cartas removidas de uma sequência após um ataque, vão todas para a lixeira.
 
 ## COMPRAS
