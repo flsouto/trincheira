@@ -56,11 +56,11 @@ As cartas removidas de uma sequência após um ataque, vão todas para a lixeira
 ## COMPRAS
 As cartas com naipe de ouros, além de serem úteis para construir sequências, também possuem um "poder de compra". Se o jogador tiver, por exemplo, um 5 de ouros na sua mão, ele pode descartar essa carta e comprar 5 cartas novas de uma só vez. O número total de cartas na mão de um jogador não poderá ultrapassar nove! Se ele já possuir, por exemplo, 6 cartas em sua mão e utilizar um 5 de ouros, então ele deverá comprar apenas 4, ficando assim com nove cartas no total.
 
-**Observaçóes:** 
+- **Observaçóes:** 
 
-    1 Não é possível escolher as cartas compradas, devendo-se pegar apenas as que estão no topo do monte de compras
+    1. Não é possível escolher as cartas compradas, devendo-se pegar apenas as que estão no topo do monte de compras
 
-    2 É possível descartar qualquer carta, tanto da mão como das que estiverem na mesa, para fazer a compra de apenas uma carta.
+    2. É possível descartar qualquer carta, tanto da mão como das que estiverem na mesa, para fazer a compra de apenas uma carta.
 
 ## FUNÇÕES DO CORINGA
 
