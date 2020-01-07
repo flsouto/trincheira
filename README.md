@@ -11,7 +11,7 @@ Em cada rodada é possível fazer apenas um movimento. Os seguintes movimentos s
 
 - Baixar uma carta na mesa para começar uma sequência nova ou completar uma existente.
 - Baixar uma carta na mesa para proteger uma sequência.
-- Descartar uma carta fazer uma compra.
+- Descartar uma carta e fazer uma compra.
 - Atacar uma sequência do adversário.
 - Utilizar uma das funções do coringa (veja "Funções do Coringa" mais adiante).
 - Recuperar alguma carta da mesa devolvendo-a para a mão.
