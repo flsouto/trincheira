@@ -33,7 +33,7 @@ Apenas o coringa tem o poder de destrinchar uma sequência de espadas.
 ## PROTEÇÃO
 
 A proteção deve ser feita com uma carta virada para baixo e posta horizontalmente à frente da sequência que se deseja proteger. Cartas de espadas devem ser utilizadas para isso, sendo que o valor da carta determina o tamanho do seu "poder de defesa".
-Exemplo: um nove de espadas tem o poder de defesa igual a nove. Isso significa que somente uma carta de espada com o valor de ataque maior ou igual a nove é capaz de removê-la.
+Exemplo: um nove de espadas tem o poder de defesa igual a nove. Isso significa que somente uma carta de espada com o valor de ataque maior ou igual a nove é capaz de derrubá-la.
 
 Blefe: é possível "blefar" colocando qualquer carta virada para baixo para fazer o adversário pensar que é uma proteção, quando na verdade não é. Qualquer carta que não seja do naipe de espada tem valor de defesa igual a zero, ou seja, possui apenas a função de blefe.
 
