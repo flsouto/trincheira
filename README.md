@@ -3,10 +3,12 @@
 ## RESUMO
 O jogo consiste em fazer pontos formando sequências de cartas na mesa. É possível atacar as sequências do adversário para fazê-lo perder pontos e também utilizar cartas para formar "trincheiras" que servem para proteger as próprias sequências de possíveis ataques. O jogo termina quando todas as cartas do baralho tiverem sido compradas. Ganha o jogador que tiver formado sequências que somarem o maior número de pontos.
 
-## INÍCIO DO JOGO
-É utilizado dois baralhos comuns com ou sem os coringas. O número de coringas utilizado fica a critério dos jogadores. Após misturar o baralho deve-se distribuir 9 cartas para cada jogador.
+## PREPARO
+
+É utilizado dois baralhos comuns com ou sem os coringas. O número de coringas utilizado fica a critério dos jogadores. Após misturar o baralho deve-se distribuir 9 cartas para cada jogador. As cartas restantes ficam num monte à parte, viradas para baixo, que ficará disponível durante o jogo para a realização de compras. 
 
 ## RODADA
+
 Em cada rodada é possível fazer apenas um movimento. Os seguintes movimentos são possíveis:
 
 - Baixar uma carta na mesa para começar uma sequência nova ou completar uma existente.
@@ -51,10 +53,14 @@ Sempre que uma carta for utilizada para o ataque, independente de ter tido suces
 Uma carta de proteção que for derrubada pelo ataque, também vai para a lixeira.
 As cartas removidas de uma sequência após um ataque, vão todas para a lixeira.
 
-## COMPRA
-As cartas com naipe de ouros, além de serem úteis para construir sequências, também possuem um "poder de compra". Se o jogador tiver, por exemplo, um 5 de ouros na sua mão, ele pode descartar essa carta e comprar 5 cartas novas de uma só vez. Lembrando que o número total de cartas na sua mão não poderá ultrapassar nove! Se ele já possuir, por exemplo, 6 cartas em sua mão e utilizar um 5 de ouros, então ele deverá comprar apenas 4, ficando assim com nove cartas no total.
+## COMPRAS
+As cartas com naipe de ouros, além de serem úteis para construir sequências, também possuem um "poder de compra". Se o jogador tiver, por exemplo, um 5 de ouros na sua mão, ele pode descartar essa carta e comprar 5 cartas novas de uma só vez. O número total de cartas na mão de um jogador não poderá ultrapassar nove! Se ele já possuir, por exemplo, 6 cartas em sua mão e utilizar um 5 de ouros, então ele deverá comprar apenas 4, ficando assim com nove cartas no total.
 
-**Observação:** Também é possível descartar qualquer carta, tanto da mão como das que estiverem na mesa, para fazer a compra de apenas uma carta.
+**Observaçóes:** 
+
+    1 Não é possível escolher as cartas compradas, devendo-se pegar apenas as que estão no topo do monte de compras
+
+    2 É possível descartar qualquer carta, tanto da mão como das que estiverem na mesa, para fazer a compra de apenas uma carta.
 
 ## FUNÇÕES DO CORINGA
 
